@@ -1,0 +1,15 @@
+# ninja log v5
+14	113	7429216657973199	CMakeFiles/Fu_num.dir/complex.c.obj	d39508ab897cbdb6
+2	115	7429216657983312	CMakeFiles/Fu_num.dir/main.c.obj	86e5cb58e61d993b
+106	227	7429211925974087	Fu_num.exe	140fa1f90b578c11
+1	297	7429216936245254	build.ninja	e56a5154e40ec514
+15	116	7429219563331288	CMakeFiles/Fu_num.dir/complex.c.obj	8add642d81c7ba49
+3	117	7429219563341280	CMakeFiles/Fu_num.dir/main.c.obj	e4120ba76a5c6c28
+2	97	7429219977305987	CMakeFiles/Fu_num.dir/main.c.obj	e4120ba76a5c6c28
+2	103	7429220429651567	CMakeFiles/Fu_num.dir/main.c.obj	e4120ba76a5c6c28
+2	100	7429220817152146	CMakeFiles/Fu_num.dir/main.c.obj	e4120ba76a5c6c28
+3	108	7429221204593865	CMakeFiles/Fu_num.dir/main.c.obj	e4120ba76a5c6c28
+2	120	7429221917295033	CMakeFiles/Fu_num.dir/main.c.obj	e4120ba76a5c6c28
+121	239	7429221918418491	Fu_num.exe	140fa1f90b578c11
+2	116	7429222186518396	CMakeFiles/Fu_num.dir/main.c.obj	e4120ba76a5c6c28
+117	229	7429222187574171	Fu_num.exe	140fa1f90b578c11
